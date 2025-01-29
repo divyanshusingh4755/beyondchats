@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Online hosted link
+Open [https://divyanshusingh4755.github.io/beyondchats/](https://divyanshusingh4755.github.io/beyondchats/)
 
 
 ## Available Scripts
