@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beyondchats/static/css/main.e6c13ad2.css",
+    "main.js": "/beyondchats/static/js/main.873913a8.js",
+    "static/js/488.c2c98c19.chunk.js": "/beyondchats/static/js/488.c2c98c19.chunk.js",
+    "index.html": "/beyondchats/index.html",
+    "main.e6c13ad2.css.map": "/beyondchats/static/css/main.e6c13ad2.css.map",
+    "main.873913a8.js.map": "/beyondchats/static/js/main.873913a8.js.map",
+    "488.c2c98c19.chunk.js.map": "/beyondchats/static/js/488.c2c98c19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.873913a8.js"
+  ]
+}
